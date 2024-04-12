@@ -42,7 +42,7 @@
     <td align="center"><a href="https://github.com/Be-kimhaechang1"><b>김회창</b></a><p><b>팀장</b><p><b>Back-end</b></p><p>매칭서버 개발</p><p>Problem Solving API 개발</p><p>인프라 구축</p></p></td>
     <td align="center"><a href="https://github.com/Be-HinD"><b>김정현</b></a><p><b>팀원</b></p><p><b>Back-end</b></p><p>아레나 게임서버 개발</p><p>알림 & 게시판 API 개발</p><p>화면공유 시스템 관리</p></p></td>
     <td align="center"><a href="https://github.com/Agwii"><b>이귀현</b></a><p><b>팀원</b></p><p><b>Front-end</b></p><p>아레나 컴포넌트 개발</p></td>
-    <td align="center"><a href="https://github.com/wkdtpwjd19"><b>장세정</b></a><p><b>팀원</b></p><p><b>Front-end</b></p><p>알림 & 게시판 컴포넌트 개발</p><p>회원 컴포넌트 개발</p></td>
+    <td align="center"><a href="https://github.com/wkdtpwjd"><b>장세정</b></a><p><b>팀원</b></p><p><b>Front-end</b></p><p>알림 & 게시판 컴포넌트 개발</p><p>회원 컴포넌트 개발</p></td>
     <td align="center"><a href="https://github.com/timber3"><b>오승현</b></a><p><b>팀원</b></p><p><b>Back-end</b></p><p>채점서버 개발</p><p>회원관리 API 개발</p></p></td>
     <td align="center"><a href="https://github.com/YangGeoun"><b>양건우</b></a><p><b>팀원</b></p><p><b>Front-end</b></p><p>Problem Solving 컴포넌트 개발</p><p>화면 공유 컴포넌트 개발</p></p></td>
   </tr>
