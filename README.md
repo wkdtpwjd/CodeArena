@@ -34,7 +34,7 @@
     <td align="center"><a href="https://github.com/kimhaechang1"><img src="https://avatars.githubusercontent.com/kimhaechang1" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Be-HinD"><img src="https://avatars.githubusercontent.com/Be-HinD" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/Agwii"><img src="https://avatars.githubusercontent.com/Agwii" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/wkdtpwjd19"><img src="https://avatars.githubusercontent.com/wkdtpwjd19" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/wkdtpwjd"><img src="https://avatars.githubusercontent.com/wkdtpwjd19" width="130px;" alt=""></a></td>
    <td align="center"><a href="https://github.com/timber3"><img src="https://avatars.githubusercontent.com/timber3" width="130px;" alt=""></a></td>
    <td align="center"><a href="https://github.com/YangGeoun"><img src="https://avatars.githubusercontent.com/YangGeoun" width="130px;" alt=""></a></td>
   </tr>
